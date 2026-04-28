@@ -13,7 +13,6 @@ Before joining Beihang, I was a Research Associate at [research group QuAIR](htt
 I received my Ph.D. degree in Applied Mathematics at [Key Laboratory of Mathematics Mechanization](http://mmrc.amss.cas.cn/), [Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences](http://www.amss.cas.cn/) in 2020, supervised by [Prof. Xiao-Shan Gao](http://mmrc.iss.ac.cn/~xgao/). I obtained my B.S. in Mathematics and Applied Mathematics from the [University of Science and Technology of China](https://www.ustc.edu.cn/) in 2015.
 
 A full list of my publications can be found on [Google Scholar](https://scholar.google.com.hk/citations?user=xiy-cTYAAAAJ) or [arXiv](https://arxiv.org/a/chen_y_18.html) with author identifier chen_yu_18. 
-[^_^]: My full CV is available here.
 
 ======
 
