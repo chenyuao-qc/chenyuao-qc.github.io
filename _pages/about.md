@@ -22,8 +22,7 @@ A full list of my publications can be found on [Google Scholar](https://scholar.
 - Cryptography
 
 ## Education
--[🎓] ** Ph.D. in Applied Mathematics, 2020**  
+-[🎓] **Ph.D. in Applied Mathematics, 2020**  
 Academy of Mathematics and Systems Science, Chinese Academy of Sciences 
-  
--[🎓] **🎓 B.S. in Mathematics and Applied Mathematics, 2015**  
+-[🎓] **B.S. in Mathematics and Applied Mathematics, 2015**  
 University of Science and Technology of China  
