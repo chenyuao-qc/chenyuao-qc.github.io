@@ -6,7 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## About
+I am currently a Tenure-track Associate Professor in the [School of Software](https://soft.buaa.edu.cn/) at [Beihang University](https://www.buaa.edu.cn/). My research focuses on quantum algorithms and quantum information theory, with additional interests in symbolic computation, representation theory, and cryptography.
 
+Before joining Beihang, I was a Research Associate [research group QuAIR](https://www.quair.group/) lead by [Prof. Xin Wang](https://www.xinwang.info/) at the Thrust of Artificial Intelligence, [Information Hub](https://infh.hkust-gz.edu.cn/), [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), from 2023 to 2025.
+
+Prior to that, I was a Senior Researcher at [the Institute for Quantum Computing](https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E7%A0%94%E7%A9%B6%E6%89%80), Baidu Research.
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
