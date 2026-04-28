@@ -16,3 +16,31 @@ A full list of my publications can be found on [Google Scholar](https://scholar.
 [^_^]: My full CV is available here.
 
 ======
+
+<div style="display: flex; gap: 40px;">
+
+<div style="flex: 1;">
+
+### Interests
+
+- **Quantum Algorithms**
+- **Quantum Information Theory**
+- Symbolic Computation
+- Representation Theory
+- Cryptography
+
+</div>
+
+<div style="flex: 1;">
+
+### Education
+
+**🎓 Ph.D. in Applied Mathematics, 2020**  
+Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences 
+  
+**🎓 B.S. in Mathematics and Applied Mathematics, 2015**  
+University of Science and Technology of China  
+
+</div>
+
+</div>
