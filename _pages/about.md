@@ -14,12 +14,6 @@ I received my Ph.D. degree in Applied Mathematics at [Key Laboratory of Mathemat
 
 A full list of my publications can be found on [Google Scholar](https://scholar.google.com.hk/citations?user=xiy-cTYAAAAJ) or [arXiv](https://arxiv.org/a/chen_y_18.html) with author identifier chen_yu_18. 
 
-======
-
-<div style="display: flex; gap: 40px;">
-
-<div style="flex: 1;">
-
 ### Interests
 
 - **Quantum Algorithms**
@@ -27,11 +21,7 @@ A full list of my publications can be found on [Google Scholar](https://scholar.
 - Symbolic Computation
 - Representation Theory
 - Cryptography
-
-</div>
-
-<div style="flex: 1;">
-
+- 
 ### Education
 
 **🎓 Ph.D. in Applied Mathematics, 2020**  
@@ -39,7 +29,3 @@ Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences
   
 **🎓 B.S. in Mathematics and Applied Mathematics, 2015**  
 University of Science and Technology of China  
-
-</div>
-
-</div>
