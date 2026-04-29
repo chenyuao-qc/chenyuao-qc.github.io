@@ -28,8 +28,8 @@ Academy of Mathematics and Systems Science, Chinese Academy of Sciences
 University of Science and Technology of China
 
 ### Experience
-- **Associate Professor** School of Software, Beihang University, Apr. 2026-present
-- **Research Associate** Hong Kong University of Science and Technology (Guangzhou), Nov. 2023-Oct. 2025
-- **Senior Researcher** the Institute for Quantum Computing, Baidu Research, Jul. 2020-Jul. 2023
+- **Associate Professor**, School of Software, Beihang University, Apr. 2026-present
+- **Research Associate**, Hong Kong University of Science and Technology (Guangzhou), Nov. 2023-Oct. 2025
+- **Senior Researcher**, the Institute for Quantum Computing, Baidu Research, Jul. 2020-Jul. 2023
 
 
