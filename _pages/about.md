@@ -14,6 +14,39 @@ I received my Ph.D. degree in Applied Mathematics at [Key Laboratory of Mathemat
 
 A full list of my publications can be found on [Google Scholar](https://scholar.google.com.hk/citations?user=xiy-cTYAAAAJ) or [arXiv](https://arxiv.org/a/chen_y_18.html) with author identifier chen_yu_18. 
 
+<div class="row">
+<div class="col-md-5">
+<div class="section-subheading">Interests</div>
+<ul class="ul-interests mb-0">
+<li>Quantum Information Theory</li>
+<li>Quantum Computation</li>
+<li>Quantum Machine Learning</li>
+<li>Quantum Error Mitigation and Correction</li>
+<li>Quantum Simulation</li>
+<li>Quantum Software and Architecture</li>
+</ul>
+</div>
+<div class="col-md-7">
+<div class="section-subheading">Education</div>
+<ul class="ul-edu fa-ul mb-0">
+<li>
+<i class="fa-li fas fa-graduation-cap"></i>
+<div class="description">
+<p class="course">PhD in Quantum Information, 2018</p>
+<p class="institution">University of Technology Sydney</p>
+</div>
+</li>
+<li>
+<i class="fa-li fas fa-graduation-cap"></i>
+<div class="description">
+<p class="course">BSc in Mathematics (Wuyuzhang Horner), 2014</p>
+<p class="institution">Sichuan University</p>
+</div>
+</li>
+</ul>
+</div>
+</div>
+
 ## Interests
 - **Quantum Algorithms**
 - **Quantum Information Theory**
@@ -22,7 +55,17 @@ A full list of my publications can be found on [Google Scholar](https://scholar.
 - Cryptography
 
 ## Education
-+ **🎓Ph.D. in Applied Mathematics, 2020**  
+**🎓Ph.D. in Applied Mathematics, 2020**  
 Academy of Mathematics and Systems Science, Chinese Academy of Sciences 
-+ **🎓B.S. in Mathematics and Applied Mathematics, 2015**  
-University of Science and Technology of China  
+**🎓B.S. in Mathematics and Applied Mathematics, 2015**  
+University of Science and Technology of China
+
+## Experience
+**Associate Professor**  
+Academy of Mathematics and Systems Science, Chinese Academy of Sciences 
+**🎓B.S. in Mathematics and Applied Mathematics, 2015**  
+University of Science and Technology of China
+
+## 
+
+
