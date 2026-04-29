@@ -14,22 +14,22 @@ I received my Ph.D. degree in Applied Mathematics at [Key Laboratory of Mathemat
 
 A full list of my publications can be found on [Google Scholar](https://scholar.google.com.hk/citations?user=xiy-cTYAAAAJ) or [arXiv](https://arxiv.org/a/chen_y_18.html) with author identifier chen_yu_18. 
 
-## Interests
+### Interests
 - **Quantum Algorithms**
 - **Quantum Information Theory**
 - Symbolic Computation
 - Representation Theory
 - Cryptography
 
-## Education
-**🎓Ph.D. in Applied Mathematics, 2020**  
-Academy of Mathematics and Systems Science, Chinese Academy of Sciences 
-**🎓B.S. in Mathematics and Applied Mathematics, 2015**  
+### Education
+- **Ph.D. in Applied Mathematics, 2020**  
+Academy of Mathematics and Systems Science, Chinese Academy of Sciences
+- **B.S. in Mathematics and Applied Mathematics, 2015**  
 University of Science and Technology of China
 
-## Experience
-- **Associate Professor** School of Software, Beihang University (Apr. 2026-present)
-- **Research Associate** Hong Kong University of Science and Technology (Guangzhou) (Nov. 2023-Oct. 2025)
-- **Senior Researcher** the Institute for Quantum Computing, Baidu Research (Jul. 2020-Jul. 2023)
+### Experience
+- Apr. 2026-present   **Associate Professor** School of Software, Beihang University
+- Nov. 2023-Oct. 2025 **Research Associate** Hong Kong University of Science and Technology (Guangzhou)
+- Jul. 2020-Jul. 2023 **Senior Researcher** the Institute for Quantum Computing, Baidu Research
 
 
