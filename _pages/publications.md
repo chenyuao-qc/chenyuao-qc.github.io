@@ -6,7 +6,7 @@ redirect_from:
   - /publications.html
 ---
     
-    1. Distilling Unitary Operations: A No-Go Theorem and Minimal Realization
+1. Distilling Unitary Operations: A No-Go Theorem and Minimal Realization
     - Jiayi Zhao, **Yu-Ao Chen**, Guocheng Zhen, Chengkai Zhu, Ranyiliu Chen, Xin Wang
     - [arXiv:2604.01048](https://arxiv.org/abs/2604.01048)
 
