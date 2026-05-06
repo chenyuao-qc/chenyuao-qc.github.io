@@ -32,7 +32,7 @@ A full list of my publications can also be found on [Google Scholar](https://sch
 
 3. Power and limitations of distributed quantum state purification
     - Benchi Zhao, **Yu-Ao Chen**, Xuanqiang Zhao, Chengkai Zhu, Giulio Chiribella, Xin Wang
-    - [Physical Review Letters 136.9(2026): 090203](https://journals.aps.org/prl/abstract/10.1103/3bb1-pmtp)
+    - [Physical Review Letters 136, 090203(2026)](https://journals.aps.org/prl/abstract/10.1103/3bb1-pmtp)
     - [arXiv:2509.08691](https://arxiv.org/abs/2509.08691)
     - [talk in TQC2026](https://tqc-conference.org/2026/accepted-papers/)
 
