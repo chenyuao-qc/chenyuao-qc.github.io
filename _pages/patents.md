@@ -8,7 +8,7 @@ redirect_from:
   - /patent.html
 ---
 
-When I worked at Insititude of Quantum Computing, Baidu Reasearch, I applied for the following patents in China. Those patents ending in B have been granted, while patents ending in A have been published.
+When I worked at Insititude of Quantum Computing, Baidu Inc., I applied for the following patents in China. Patents with numbers ending in “B” have been granted, while those ending in “A” have been published.
 
 1. 晋力京，**陈俣翱**，陈立鹏，“量子芯片、量子计算机以及制造方法"，CN116796847B.
 
