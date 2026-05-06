@@ -5,7 +5,9 @@ author_profile: true
 redirect_from: 
   - /publications.html
 ---
-    
+
+A full list of my publications can also be found on [Google Scholar](https://scholar.google.com.hk/citations?user=xiy-cTYAAAAJ) or [arXiv](https://arxiv.org/a/chen_y_18.html) with author identifier chen_yu_18. 
+
 1. Distilling Unitary Operations: A No-Go Theorem and Minimal Realization
     - Jiayi Zhao, **Yu-Ao Chen**, Guocheng Zhen, Chengkai Zhu, Ranyiliu Chen, Xin Wang
     - [arXiv:2604.01048](https://arxiv.org/abs/2604.01048)
