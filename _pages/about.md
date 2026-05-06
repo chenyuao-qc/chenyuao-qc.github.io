@@ -31,3 +31,30 @@ University of Science and Technology of China
 - **Associate Professor**, School of Software, Beihang University, Apr. 2026-present
 - **Research Associate**, Hong Kong University of Science and Technology (Guangzhou), Nov. 2023-Oct. 2025
 - **Senior Researcher**, the Institute for Quantum Computing, Baidu Research, Jul. 2020-Jul. 2023
+
+### Selected Publications
+3. Power and limitations of distributed quantum state purification
+    - Benchi Zhao, **Yu-Ao Chen**, Xuanqiang Zhao, Chengkai Zhu, Giulio Chiribella, Xin Wang
+    - [Physical Review Letters 136, 090203(2026)](https://journals.aps.org/prl/abstract/10.1103/3bb1-pmtp)
+    - [arXiv:2509.08691](https://arxiv.org/abs/2509.08691)
+    - [talk in TQC2026](https://tqc-conference.org/2026/accepted-papers/)
+
+5. Quantum Algorithm for Reversing Unknown Unitary Evolutions
+    - **Yu-Ao Chen**, Yin Mo, Yingjian Liu, Lei Zhang,  Xin Wang
+    - [arXiv:2403.04704](https://arxiv.org/abs/2403.04704) 
+    - talks at [TQC2025](https://tqc.iaqi.org/2025/accepted-talks/index.html) and [QCTiP2025](https://qctip2025.com/wp-content/uploads/2025/02/book_of_abstracts.pdf), [long talk at AQIS2025](http://aqis-conf.org/2025/), 
+
+7. Virtual Quantum Markov Chains
+    - **Yu-Ao Chen**, Chengkai Zhu, Keming He, Mingrui Jing, and Xin Wang
+    - [IEEE Transactions on Information Theory 71(7), 5387-5399(2025)](https://ieeexplore.ieee.org/document/10994309)
+    - [arXiv:2312.02031](https://arxiv.org/abs/2312.02031)
+
+11. Physical Implementability for Reversible Magic State Manipulation
+    - **Yu-Ao Chen**, Gilad Gour, Xin Wang, Lei Zhang, Chenghong Zhu
+    - [Communications Physics 8: 4(2025)](https://www.nature.com/articles/s42005-024-01914-0)
+    - [arXiv:2405.17356](https://arxiv.org/abs/2405.17356)
+
+17. Quantum algorithm for Boolean equation solving and quantum algebraic attack on cryptosystems
+    - **Yu-Ao Chen**, and Xiao-Shan Gao
+    - [Journal of Systems Science and Complexity 35: 373-412(2022)](https://link.springer.com/article/10.1007/s11424-020-0028-6)
+    - [arXiv:1712.06239](https://arxiv.org/abs/1712.06239)
