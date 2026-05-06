@@ -21,7 +21,7 @@ A full list of my publications can also be found on [Google Scholar](https://sch
     - [arXiv:2409.06659](https://arxiv.org/abs/2409.06659)
 
 1. Structure, Optimality, and Symmetry in Shadow Unitary Inversion
-    - Guocheng Zhen$$^\#$$,  **Yu-Ao Chen** $$^\#$$, Mingrui Jing, Jingu Xie, Ranyiliu Chen, Xin Wang, 
+    - Guocheng Zhen$$^\#$$,  **Yu-Ao Chen**$$^\#$$, Mingrui Jing, Jingu Xie, Ranyiliu Chen, Xin Wang, 
     - [arXiv:2510.24880](https://arxiv.org/abs/2510.24880)
     - accepted by Communications Physics
 
@@ -47,7 +47,7 @@ A full list of my publications can also be found on [Google Scholar](https://sch
     - talks at [TQC2025](https://tqc-conference.org/accepted-talks/) and [QCTiP2025](https://qctip2025.com/wp-content/uploads/2025/02/book_of_abstracts.pdf), [long talk at AQIS2025](http://aqis-conf.org/2025/)
 
 6. Protocols and Trade-Offs of Quantum State Purification
-    - Hongshun Yao$^\#$, **Yu-Ao Chen**$^\#$, Erdong Huang, Kaichu Chen, Honghao Fu, Xin Wang
+    - Hongshun Yao$$^\#$$, **Yu-Ao Chen**$$^\#$$, Erdong Huang, Kaichu Chen, Honghao Fu, Xin Wang
     - [Quantum Science and Technology 10, 035020(2025)](https://iopscience.iop.org/article/10.1088/2058-9565/add17e)
     - [arXiv:2404.01138](https://arxiv.org/abs/2404.01138)
 
@@ -67,7 +67,7 @@ A full list of my publications can also be found on [Google Scholar](https://sch
     - [arXiv:2312.04456](https://arxiv.org/abs/2312.04456)
 
 10. Parameterized quantum comb and simpler circuits for reversing unknown qubit-unitary operations
-    - Yin Mo$^\#$, Lei Zhang$^\#$, **Yu-Ao Chen**$^\#$, Yingjian Liu, Tengxiang Lin, Xin Wang
+    - Yin Mo$$^\#$$, Lei Zhang$$^\#$$, **Yu-Ao Chen**$$^\#$$, Yingjian Liu, Tengxiang Lin, Xin Wang
     - [npj Quantum Information11, 32(2025)](https://www.nature.com/articles/s41534-025-00979-1)
     - [arXiv:2403.03761](https://arxiv.org/abs/2403.03761)
 
