@@ -68,7 +68,7 @@ A full list of my publications can also be found on [Google Scholar](https://sch
 
 10. Parameterized quantum comb and simpler circuits for reversing unknown qubit-unitary operations
     - Yin Mo$$^\#$$, Lei Zhang$$^\#$$, **Yu-Ao Chen**$$^\#$$, Yingjian Liu, Tengxiang Lin, Xin Wang
-    - [npj Quantum Information11, 32(2025)](https://www.nature.com/articles/s41534-025-00979-1)
+    - [npj Quantum Information 11, 32(2025)](https://www.nature.com/articles/s41534-025-00979-1)
     - [arXiv:2403.03761](https://arxiv.org/abs/2403.03761)
 
 11. Physical Implementability for Reversible Magic State Manipulation
@@ -88,7 +88,7 @@ A full list of my publications can also be found on [Google Scholar](https://sch
 
 14. Reversing Unknown Quantum Processes via Virtual Combs for Channels with Limited Information
     - Chengkai Zhu, Yin Mo, **Yu-Ao Chen**, and Xin Wang
-    - [Physical Review Letters 133.3(2024): 030801](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.030801)
+    - [Physical Review Letters 133, 030801(2024)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.030801)
     - [arXiv:2401.04672](https://arxiv.org/abs/2401.04672)
     - talks at [TQC2024](https://tqc-conference.org/tqc-2024/) and [QCTiP2024](https://www.qctip2024.com/agenda)
 
@@ -109,5 +109,5 @@ A full list of my publications can also be found on [Google Scholar](https://sch
 
 18. Criteria for Finite Difference Gröbner Bases of Normal Binomial Difference Ideals
     - **Yu-Ao Chen**, and Xiao-Shan Gao
-    - [Proceedings of the 2017 ACM on International Symposium on Symbolic and Algebraic Computation, pp. 93-100](https://dl.acm.org/doi/abs/10.1145/3087604.3087615)
+    - [Proceedings of the 2017 ACM on International Symposium on Symbolic and Algebraic Computation, 93-100](https://dl.acm.org/doi/abs/10.1145/3087604.3087615)
     - [arXiv:1701.06248](https://arxiv.org/abs/1701.06248)
