@@ -1,4 +1,13 @@
-1. Distilling Unitary Operations: A No-Go Theorem and Minimal Realization
+---
+permalink: /
+title: "Publications"
+author_profile: true
+redirect_from: 
+  - /publications/
+  - /publications.html
+---
+    
+    1. Distilling Unitary Operations: A No-Go Theorem and Minimal Realization
     - Jiayi Zhao, **Yu-Ao Chen**, Guocheng Zhen, Chengkai Zhu, Ranyiliu Chen, Xin Wang
     - [arXiv:2604.01048](https://arxiv.org/abs/2604.01048)
 
@@ -34,8 +43,7 @@
 5. Quantum Algorithm for Reversing Unknown Unitary Evolutions
     - **Yu-Ao Chen**, Yin Mo, Yingjian Liu, Lei Zhang,  Xin Wang
     - [arXiv:2403.04704](https://arxiv.org/abs/2403.04704v2) 
-    - talks at [TQC2025](https://tqc-conference.org/accepted-talks/) and [QCTiP2025](https://qctip2025.com/wp-content/uploads/2025/02/book_of_abstracts.pdf), [long talk at AQIS2025](http://aqis-conf.org/2025/), 
-    [^_^]: (the sole work from Chinese mainland)
+    - talks at [TQC2025](https://tqc-conference.org/accepted-talks/) and [QCTiP2025](https://qctip2025.com/wp-content/uploads/2025/02/book_of_abstracts.pdf), [long talk at AQIS2025](http://aqis-conf.org/2025/)
 
 6. Protocols and Trade-Offs of Quantum State Purification
     - Hongshun Yao$^\#$, **Yu-Ao Chen**$^\#$, Erdong Huang, Kaichu Chen, Honghao Fu, Xin Wang
