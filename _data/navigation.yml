@@ -13,7 +13,9 @@ main:
 
   - title: "Talks"
     url: /talks/    
-
+  
+  - title: "Softs"
+    url: /softs/  
   # - title: "Teaching"
   #   url: /teaching/    
     
