@@ -94,7 +94,7 @@ A full list of my publications can also be found on [Google Scholar](https://sch
 
 15. Mitigating Quantum Errors via Truncated Neumann Series
     - Kun Wang, **Yu-Ao Chen**, and Xin Wang
-    - [Science China Information Sciences 66.8(2023): 180508](https://link.springer.com/article/10.1007/s11432-023-3786-1)
+    - [Science China Information Sciences 66, 180508(2023)](https://link.springer.com/article/10.1007/s11432-023-3786-1)
     - [arXiv:2111.00691](https://arxiv.org/abs/2111.00691)
 
 16. Measurement error mitigation via truncated Neumann series
