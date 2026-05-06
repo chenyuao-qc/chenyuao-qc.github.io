@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Prof. Yu-Ao Chen (陈俣翱)"
+title                    : "CHEN"
 title_separator          : "-"
 name                     : &name "陈俣翱"
 description              : &description "个人介绍"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ repository               : "chenyuao-qc/chenyuao-qc.github.io"
 author:
   # Biographic information
   avatar           : "photo.jpg"
-  name             : "Yu-Ao Chen"
+  name             : "Yu-Ao Chen(陈俣翱)"
   pronouns         : #"he/his"# example: "she/her"  
   bio              : "Researcher in Quantum Algorithms"
   location         : "Beijing, China"
