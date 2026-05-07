@@ -80,6 +80,7 @@ A full list of my publications can also be found on [Google Scholar](https://sch
     - **Yu-Ao Chen**, Xiao-Shan Gao, and Chun-Ming Yuan
     - [Journal of Systems Science and Complexity(2025)](https://link.springer.com/article/10.1007/s11424-024-4545-6)
     - [arXiv:1802.03856](https://arxiv.org/abs/1802.03856)
+    - listed in the [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org/)
 
 13. Retrieving Nonlinear Features from Noisy Quantum States
     - Benchi Zhao, Mingrui Jing, Lei Zhang, Xuanqiang Zhao, **Yu-Ao Chen**, Kun Wang, and Xin Wang
@@ -106,6 +107,7 @@ A full list of my publications can also be found on [Google Scholar](https://sch
     - **Yu-Ao Chen**, and Xiao-Shan Gao
     - [Journal of Systems Science and Complexity 35.1(2022): 373-412](https://link.springer.com/article/10.1007/s11424-020-0028-6)
     - [arXiv:1712.06239](https://arxiv.org/abs/1712.06239)
+    - listed in the [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org/)
 
 18. Criteria for Finite Difference Gröbner Bases of Normal Binomial Difference Ideals
     - **Yu-Ao Chen**, and Xiao-Shan Gao
