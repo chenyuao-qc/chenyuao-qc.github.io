@@ -56,5 +56,7 @@ University of Science and Technology of China
 
 17. Quantum algorithm for Boolean equation solving and quantum algebraic attack on cryptosystems
     - **Yu-Ao Chen**, and Xiao-Shan Gao
-    - [Journal of Systems Science and Complexity 35: 373-412(2022)](https://link.springer.com/article/10.1007/s11424-020-0028-6)
+    - [Journal of Systems Science and Complexity 35.1(2022): 373-412](https://link.springer.com/article/10.1007/s11424-020-0028-6)
     - [arXiv:1712.06239](https://arxiv.org/abs/1712.06239)
+    - listed in the [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org/)
+    - invited talk at the workshop [Quantum Algorithms for Cryptanalysis](https://malb.io/quac/) co-located with EuroCrypt2019
