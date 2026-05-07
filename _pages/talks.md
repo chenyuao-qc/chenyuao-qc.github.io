@@ -15,7 +15,7 @@ redirect_from:
 
 **04/2025** Workshop on Quantum Information and Optimization(QIOP), Tianyuan Mathematics Research Center, Kunming, China.
 
-**05/2019** Quantum Algorithms for Cryptanalysis(invited talk), Workshop co-located with EuroCrypt2019, Darmstadt, Germany.
+**05/2019** [Quantum Algorithms for Cryptanalysis](https://malb.io/quac/)(invited talk), Workshop co-located with EuroCrypt2019, Darmstadt, Germany.
 
 **11/2018** Conference on Chinese Society of Computer Mathematics(CM2018), Wuhan, China.
 
