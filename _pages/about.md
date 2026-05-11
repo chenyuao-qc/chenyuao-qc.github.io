@@ -29,7 +29,7 @@ University of Science and Technology of China
 
 ### Experience
 - **Associate Professor**, School of Software, Beihang University, Apr. 2026-present
-- **Research Associate**, Hong Kong University of Science and Technology (Guangzhou), Nov. 2023-Oct. 2025
+- **Research Associate**, AI Thurst, Information Hub, Hong Kong University of Science and Technology (Guangzhou), Nov. 2023-Oct. 2025
 - **Senior Researcher**, the Institute for Quantum Computing, Baidu Research, Jul. 2020-Jul. 2023
 
 ### Selected Publications
@@ -37,7 +37,7 @@ University of Science and Technology of China
     - Benchi Zhao, **Yu-Ao Chen**, Xuanqiang Zhao, Chengkai Zhu, Giulio Chiribella, Xin Wang
     - [Physical Review Letters 136, 090203(2026)](https://journals.aps.org/prl/abstract/10.1103/3bb1-pmtp)
     - [arXiv:2509.08691](https://arxiv.org/abs/2509.08691)
-    - [talk in TQC2026](https://tqc-conference.org/2026/accepted-papers/)
+    - [talk at TQC2026](https://tqc-conference.org/2026/accepted-papers/)
 
 5. Quantum Algorithm for Reversing Unknown Unitary Evolutions
     - **Yu-Ao Chen**, Yin Mo, Yingjian Liu, Lei Zhang,  Xin Wang
