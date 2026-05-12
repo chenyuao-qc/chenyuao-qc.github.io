@@ -34,7 +34,7 @@ A full list of my publications can also be found on [Google Scholar](https://sch
     - Benchi Zhao, **Yu-Ao Chen**, Xuanqiang Zhao, Chengkai Zhu, Giulio Chiribella, Xin Wang
     - [Physical Review Letters 136, 090203(2026)](https://journals.aps.org/prl/abstract/10.1103/3bb1-pmtp)
     - [arXiv:2509.08691](https://arxiv.org/abs/2509.08691)
-    - [talk in TQC2026](https://tqc-conference.org/2026/accepted-papers/)
+    - [talk at TQC2026](https://tqc-conference.org/2026/accepted-papers/)
 
 4. Optimal Hamiltonian recognition of unknown quantum dynamics
     - Chengkai Zhu, Shuyu He, **Yu-Ao Chen**, Lei Zhang and Xin Wang
