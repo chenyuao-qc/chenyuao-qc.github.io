@@ -24,9 +24,9 @@ repository               : "chenyuao-qc/chenyuao-qc.github.io"
 author:
   # Biographic information
   avatar           : "photo.jpg"
-  name             : "Yu-Ao Chen(陈俣翱)"
+  name             : "Yu-Ao Chen (陈俣翱)"
   pronouns         : #"he/his"# example: "she/her"  
-  bio              : "Tenure-Track Associate Professor, School of Software, Beihang University"
+  bio              : "Tenure-Track Associate Professor, Beihang University"
   location         : "Beijing, China"
   employer         : "Beihang University"
   uri              : # URL
