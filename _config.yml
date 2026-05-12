@@ -26,16 +26,16 @@ author:
   avatar           : "photo.jpg"
   name             : "Yu-Ao Chen (陈俣翱)"
   pronouns         : #"he/his"# example: "she/her"  
-  bio              : "Tenure-Track Associate Professor, Beihang University"
-  location         : "Beijing, China"
+  bio              : "Tenure-Track Associate Professor"
   employer         : "Beihang University"
+  location         : "Beijing, China"
   uri              : # URL
   email            : #"tcag06@gmail.com" 
 
   # Academic websites
   academia         : # URL
-  arxiv            : "https://arxiv.org/a/chen_y_18.html"# URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com.hk/citations?user=xiy-cTYAAAAJ"
+  arxiv            : "https://arxiv.org/a/chen_y_18.html"# URL - Update with the correct link to your profile
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-0705-8232"
