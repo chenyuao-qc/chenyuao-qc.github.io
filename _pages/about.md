@@ -30,7 +30,7 @@ University of Science and Technology of China
 ### Experience
 - **Associate Professor**, School of Software, Beihang University, Apr. 2026-present
 - **Research Associate**, AI Thurst, Information Hub, Hong Kong University of Science and Technology (Guangzhou), Nov. 2023-Oct. 2025
-- **Senior Researcher**, the Institute for Quantum Computing, Baidu Research, Jul. 2020-Jul. 2023
+- **Senior Researcher**, the Institute for Quantum Computing, Baidu Inc., Jul. 2020-Jul. 2023
 
 ### Selected Publications
 3. Power and limitations of distributed quantum state purification
