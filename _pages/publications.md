@@ -21,7 +21,7 @@ A full list of my publications can also be found on [Google Scholar](https://sch
     - [arXiv:2409.06659](https://arxiv.org/abs/2409.06659)
 
 1. Structure, Optimality, and Symmetry in Shadow Unitary Inversion
-    - Guocheng Zhen$$^\#$$,  **Yu-Ao Chen**$$^\#$$, Mingrui Jing, Jingu Xie, Ranyiliu Chen, Xin Wang, 
+    - Guocheng Zhen$$^\#$$,  **Yu-Ao Chen**$$^\#$$, Mingrui Jing, Jingu Xie, Xin Wang, Ranyiliu Chen, 
     - [Communications Physics(2026)](https://www.nature.com/articles/s42005-026-02690-9)
     - [arXiv:2510.24880](https://arxiv.org/abs/2510.24880)
 
