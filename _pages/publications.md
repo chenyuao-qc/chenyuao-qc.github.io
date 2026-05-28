@@ -9,19 +9,19 @@ redirect_from:
 A full list of my publications can also be found on [Google Scholar](https://scholar.google.com.hk/citations?user=xiy-cTYAAAAJ) or [arXiv](https://arxiv.org/a/chen_y_18.html) with author identifier chen_yu_18. 
 
 1. Distilling Unitary Operations: A No-Go Theorem and Minimal Realization
-    - Jiayi Zhao, **Yu-Ao Chen**, Guocheng Zhen, Chengkai Zhu, Ranyiliu Chen, Xin Wang
+    - Jiayi Zhao, **Yu-Ao Chen**, Guocheng Zhen, Chengkai Zhu, Ranyiliu Chen, and Xin Wang
     - [arXiv:2604.01048](https://arxiv.org/abs/2604.01048)
 
 2. Quantum Entanglement Allocation through a Central Hub
-    - **Yu-Ao Chen**, Xia Liu, Chenghong Zhu, Lei Zhang, Junyu Liu and Xin Wang
+    - **Yu-Ao Chen**, Xia Liu, Chenghong Zhu, Lei Zhang, Junyu Liu, and Xin Wang
     - [arXiv:2409.08173](https://arxiv.org/abs/2409.08173)
 
 3. Amortized Stabilizer Rényi Entropy of Quantum Dynamics
-    - Chengkai Zhu, **Yu-Ao Chen**, Zanqiu Shen, Zhiping Liu, Zhan Yu and Xin Wang
+    - Chengkai Zhu, **Yu-Ao Chen**, Zanqiu Shen, Zhiping Liu, Zhan Yu, and Xin Wang
     - [arXiv:2409.06659](https://arxiv.org/abs/2409.06659)
 
 1. Structure, Optimality, and Symmetry in Shadow Unitary Inversion
-    - Guocheng Zhen$$^\#$$,  **Yu-Ao Chen**$$^\#$$, Mingrui Jing, Jingu Xie, Xin Wang, Ranyiliu Chen, 
+    - Guocheng Zhen$$^\#$$,  **Yu-Ao Chen**$$^\#$$, Mingrui Jing, Jingu Xie, Xin Wang, and Ranyiliu Chen
     - [Communications Physics(2026)](https://www.nature.com/articles/s42005-026-02690-9)
     - [arXiv:2510.24880](https://arxiv.org/abs/2510.24880)
 
@@ -37,17 +37,17 @@ A full list of my publications can also be found on [Google Scholar](https://sch
     - [talk at TQC2026](https://tqc-conference.org/2026/accepted-papers/)
 
 4. Optimal Hamiltonian recognition of unknown quantum dynamics
-    - Chengkai Zhu, Shuyu He, **Yu-Ao Chen**, Lei Zhang and Xin Wang
+    - Chengkai Zhu, Shuyu He, **Yu-Ao Chen**, Lei Zhang, and Xin Wang
     - [npj Quantum Information 12: 36(2026)](https://www.nature.com/articles/s41534-026-01182-6)
     - [arXiv:2412.13067](https://arxiv.org/abs/2412.13067)
 
 5. Quantum Algorithm for Reversing Unknown Unitary Evolutions
-    - **Yu-Ao Chen**, Yin Mo, Yingjian Liu, Lei Zhang,  Xin Wang
+    - **Yu-Ao Chen**, Yin Mo, Yingjian Liu, Lei Zhang, and Xin Wang
     - [arXiv:2403.04704](https://arxiv.org/abs/2403.04704v2) 
     - talks at [TQC2025](https://tqc-conference.org/accepted-talks/) and [QCTiP2025](https://qctip2025.com/wp-content/uploads/2025/02/book_of_abstracts.pdf), [long talk at AQIS2025](http://aqis-conf.org/2025/)
 
 6. Protocols and Trade-Offs of Quantum State Purification
-    - Hongshun Yao$$^\#$$, **Yu-Ao Chen**$$^\#$$, Erdong Huang, Kaichu Chen, Honghao Fu, Xin Wang
+    - Hongshun Yao$$^\#$$, **Yu-Ao Chen**$$^\#$$, Erdong Huang, Kaichu Chen, Honghao Fu, and Xin Wang
     - [Quantum Science and Technology 10, 035020(2025)](https://iopscience.iop.org/article/10.1088/2058-9565/add17e)
     - [arXiv:2404.01138](https://arxiv.org/abs/2404.01138)
 
@@ -57,7 +57,7 @@ A full list of my publications can also be found on [Google Scholar](https://sch
     - [arXiv:2312.02031](https://arxiv.org/abs/2312.02031)
 
 8. Quantum Hypothesis testing of symmetry in quantum dynamics
-    - **Yu-Ao Chen**, Chenghong Zhu, Keming He, Yingjian Liu and Xin Wang
+    - **Yu-Ao Chen**, Chenghong Zhu, Keming He, Yingjian Liu, and Xin Wang
     - [Physical Review A 111, 052406(2025)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.052406)
     - [arXiv:2411.14292](https://arxiv.org/abs/2411.14292)
     
@@ -67,12 +67,12 @@ A full list of my publications can also be found on [Google Scholar](https://sch
     - [arXiv:2312.04456](https://arxiv.org/abs/2312.04456)
 
 10. Parameterized quantum comb and simpler circuits for reversing unknown qubit-unitary operations
-    - Yin Mo$$^\#$$, Lei Zhang$$^\#$$, **Yu-Ao Chen**$$^\#$$, Yingjian Liu, Tengxiang Lin, Xin Wang
+    - Yin Mo$$^\#$$, Lei Zhang$$^\#$$, **Yu-Ao Chen**$$^\#$$, Yingjian Liu, Tengxiang Lin, and Xin Wang
     - [npj Quantum Information 11, 32(2025)](https://www.nature.com/articles/s41534-025-00979-1)
     - [arXiv:2403.03761](https://arxiv.org/abs/2403.03761)
 
 11. Physical Implementability for Reversible Magic State Manipulation
-    - **Yu-Ao Chen**, Gilad Gour, Xin Wang, Lei Zhang, Chenghong Zhu
+    - **Yu-Ao Chen**, Gilad Gour, Xin Wang, Lei Zhang, and Chenghong Zhu
     - [Communications Physics 8, 4(2025)](https://www.nature.com/articles/s42005-024-01914-0)
     - [arXiv:2405.17356](https://arxiv.org/abs/2405.17356)
 
