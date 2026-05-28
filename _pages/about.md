@@ -34,14 +34,14 @@ University of Science and Technology of China
 
 ### Selected Publications
 3. Power and limitations of distributed quantum state purification
-    - Benchi Zhao, **Yu-Ao Chen**, Xuanqiang Zhao, Chengkai Zhu, Giulio Chiribella, Xin Wang
+    - Benchi Zhao, **Yu-Ao Chen**, Xuanqiang Zhao, Chengkai Zhu, Giulio Chiribella, and Xin Wang
     - [Physical Review Letters 136, 090203(2026)](https://journals.aps.org/prl/abstract/10.1103/3bb1-pmtp)
     - [arXiv:2509.08691](https://arxiv.org/abs/2509.08691)
     - [talk at TQC2026](https://tqc-conference.org/2026/accepted-papers/)
     - We characterize LOCC-constrained quantum state purification under depolarizing noise, proving strong no-go results for universal two-copy purification while constructing explicit state-targeted protocols and an optimization framework for finite ensembles.
 
 5. Quantum Algorithm for Reversing Unknown Unitary Evolutions
-    - **Yu-Ao Chen**, Yin Mo, Yingjian Liu, Lei Zhang,  Xin Wang
+    - **Yu-Ao Chen**, Yin Mo, Yingjian Liu, Lei Zhang, and Xin Wang
     - [arXiv:2403.04704](https://arxiv.org/abs/2403.04704) 
     - talks at [TQC2025](https://tqc.iaqi.org/2025/accepted-talks/index.html) and [QCTiP2025](https://qctip2025.com/wp-content/uploads/2025/02/book_of_abstracts.pdf), [long talk at AQIS2025](http://aqis-conf.org/2025/)
     - We propose the Quantum Unitary Reversal Algorithm (QURA), which exactly reverses an arbitrary unknown unitary using O(d^2) queries, and analyze its role as a unitary inversion primitive with implications for quantum algorithm design and query complexity separation.
@@ -53,7 +53,7 @@ University of Science and Technology of China
     - We introduce virtual quantum Markov chains as a measurement-statistics–based generalization of quantum Markov chains, providing an algebraic characterization of recoverability via local operations, distinguishing W- and GHZ-type entanglement, and defining a non-Markovianity measure quantifying recovery overhead.
 
 11. Physical Implementability for Reversible Magic State Manipulation
-    - **Yu-Ao Chen**, Gilad Gour, Xin Wang, Lei Zhang, Chenghong Zhu
+    - **Yu-Ao Chen**, Gilad Gour, Xin Wang, Lei Zhang, and Chenghong Zhu
     - [Communications Physics 8: 4(2025)](https://www.nature.com/articles/s42005-024-01914-0)
     - [arXiv:2405.17356](https://arxiv.org/abs/2405.17356)
     - We establish an exact reversible framework for magic-state manipulation in odd dimensions under trace-preserving and Wigner-positivity-preserving operations, showing that magic mana uniquely governs such reversible transformations and introducing physical implementability as a notion of operational cost.
