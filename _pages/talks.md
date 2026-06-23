@@ -13,12 +13,12 @@ redirect_from:
 
 **07/2025** The 4th CCF Quantum Computation Conference([CQCC2025](https://ccf.org.cn/cqcc2025)), Chengdu, China.
 
-**04/2025** Workshop on Quantum Information and Optimization([QIOP](https://www.qiop.site/)), Tianyuan Mathematics Research Center, Kunming, China.
+**04/2025** Workshop on Quantum Information and Optimization([QIOP2025](https://www.qiop.site/)), Tianyuan Mathematics Research Center, Kunming, China.
 
 **05/2019** [Quantum Algorithms for Cryptanalysis](https://malb.io/quac/)(invited talk), Workshop co-located with [EuroCrypt2019](https://eurocrypt.iacr.org/2019/), Darmstadt, Germany.
 
 **11/2018** Conference on Chinese Society of Computer Mathematics([CM2018](http://www.mmrc.iss.ac.cn/cscm/cm2018/index.html)), Wuhan, China.
 
-**07/2017** The 42nd International Symposium on Symbolic and Algebraic Computation([ISSAC17](https://www.issac-conference.org/2017/)), University of Kaiserslautern, Kaiserslautern, Germany.
+**07/2017** The 42nd International Symposium on Symbolic and Algebraic Computation([ISSAC2017](https://www.issac-conference.org/2017/)), University of Kaiserslautern, Kaiserslautern, Germany.
 
 **11/2016** Conference on Chinese Society of Computer Mathematics([CM2016](http://www.mmrc.iss.ac.cn/cscm/cm2016/index.html)), Shenzhen, China.
