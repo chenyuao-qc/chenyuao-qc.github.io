@@ -44,7 +44,7 @@ A full list of my publications can also be found on [Google Scholar](https://sch
 5. Quantum Algorithm for Reversing Unknown Unitary Evolutions
     - **Yu-Ao Chen**, Yin Mo, Yingjian Liu, Lei Zhang, Xin Wang
     - [arXiv:2403.04704](https://arxiv.org/abs/2403.04704v2) 
-    - talks at [TQC2025](https://tqc-conference.org/accepted-talks/) and [QCTiP2025](https://qctip2025.com/wp-content/uploads/2025/02/book_of_abstracts.pdf), [long talk at AQIS2025](http://aqis-conf.org/2025/)
+    - talks at [TQC2025](https://tqc.iaqi.org/2025/) and [QCTiP2025](https://qctip2025.com/), [long talk at AQIS2025](http://aqis-conf.org/2025/)
 
 6. Protocols and Trade-Offs of Quantum State Purification
     - Hongshun Yao$$^\#$$, **Yu-Ao Chen**$$^\#$$, Erdong Huang, Kaichu Chen, Honghao Fu, Xin Wang
