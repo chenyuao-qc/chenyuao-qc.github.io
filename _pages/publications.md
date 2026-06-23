@@ -108,7 +108,7 @@ A full list of my publications can also be found on [Google Scholar](https://sch
     - [Journal of Systems Science and Complexity 35.1(2022): 373-412](https://link.springer.com/article/10.1007/s11424-020-0028-6)
     - [arXiv:1712.06239](https://arxiv.org/abs/1712.06239)
     - listed in the [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org/)
-    - invited talk at the workshop [Quantum Algorithms for Cryptanalysis](https://malb.io/quac/) co-located with EuroCrypt2019
+    - invited talk at the workshop [Quantum Algorithms for Cryptanalysis](https://malb.io/quac/) co-located with [EuroCrypt2019](https://eurocrypt.iacr.org/2019/)
 
 18. Criteria for Finite Difference Gröbner Bases of Normal Binomial Difference Ideals
     - **Yu-Ao Chen**, Xiao-Shan Gao
