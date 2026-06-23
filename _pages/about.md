@@ -63,5 +63,5 @@ University of Science and Technology of China
     - [Journal of Systems Science and Complexity 35.1(2022): 373-412](https://link.springer.com/article/10.1007/s11424-020-0028-6)
     - [arXiv:1712.06239](https://arxiv.org/abs/1712.06239)
     - listed in the [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org/)
-    - invited talk at the workshop [Quantum Algorithms for Cryptanalysis](https://malb.io/quac/) co-located with EuroCrypt2019
+    - invited talk at the workshop [Quantum Algorithms for Cryptanalysis](https://malb.io/quac/) co-located with [EuroCrypt2019](https://eurocrypt.iacr.org/2019/)
     - We develop a quantum algorithm for solving Boolean equation systems with runtime polynomial in system size and the condition number of an associated Macaulay matrix, and apply it to quantum algebraic cryptanalysis of several cryptographic primitives, yielding a condition-number-based security criterion.
