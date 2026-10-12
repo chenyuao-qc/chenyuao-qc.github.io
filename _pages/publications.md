@@ -8,15 +8,19 @@ redirect_from:
 
 A full list of my publications can also be found on [Google Scholar](https://scholar.google.com.hk/citations?user=xiy-cTYAAAAJ) or [arXiv](https://arxiv.org/a/chen_y_18.html) with author identifier chen_yu_18. 
 
-1. Distilling Unitary Operations: A No-Go Theorem and Minimal Realization
+1. A Catalytic Algorithm for Transposing Unknown Qutrit Unitaries with Tight Query Bounds
+    - **Yu-Ao Chen**
+    - [arXiv:2610.12664](https://arxiv.org/abs/2610.12664)
+      
+2. Distilling Unitary Operations: A No-Go Theorem and Minimal Realization
     - Jiayi Zhao, **Yu-Ao Chen**, Guocheng Zhen, Chengkai Zhu, Ranyiliu Chen, Xin Wang
     - [arXiv:2604.01048](https://arxiv.org/abs/2604.01048)
 
-2. Quantum Entanglement Allocation through a Central Hub
+3. Quantum Entanglement Allocation through a Central Hub
     - **Yu-Ao Chen**, Xia Liu, Chenghong Zhu, Lei Zhang, Junyu Liu, Xin Wang
     - [arXiv:2409.08173](https://arxiv.org/abs/2409.08173)
 
-3. Amortized Stabilizer Rényi Entropy of Quantum Dynamics
+4. Amortized Stabilizer Rényi Entropy of Quantum Dynamics
     - Chengkai Zhu, **Yu-Ao Chen**, Zanqiu Shen, Zhiping Liu, Zhan Yu, Xin Wang
     - [arXiv:2409.06659](https://arxiv.org/abs/2409.06659)
 
