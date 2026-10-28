@@ -22,7 +22,7 @@ A full list of my publications can also be found on [Google Scholar](https://sch
 
 4. Amortized Stabilizer Rényi Entropy of Quantum Dynamics
     - Chengkai Zhu, **Yu-Ao Chen**, Zanqiu Shen, Zhiping Liu, Zhan Yu, Xin Wang
-    - accepted by IEEE Journal of Selected Topics in Signal Processing
+    - accepted as a SPECIAL ISSUE paper in [IEEE Journal of Selected Topics in Signal Processing](https://signalprocessingsociety.org/publications-resources/ieee-journal-selected-topics-signal-processing)
     - [arXiv:2409.06659](https://arxiv.org/abs/2409.06659)
 
 1. Structure, Optimality, and Symmetry in Shadow Unitary Inversion
